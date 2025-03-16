@@ -1,92 +1,42 @@
 
-# Číselné obory
+# Maturita
 
-## Přirozená čísla
+## 1 Ciselne obory
 
-- provádět aritmetické operace s přirozenými čísly
+### 1.4 Realna cisla
 
-- rozlišit prvočíslo a číslo složené, rozložit přirozené číslo na prvočinitele
+![image](https://github.com/user-attachments/assets/16f058aa-68ac-44ee-bda4-421e3a153ff5)
 
-- užít pojem dělitelnost přirozených čísel a znaky dělitelnosti
+### 1.5 Ciselne mnoziny a intervaly
 
-- rozlišit čísla soudělná a nesoudělná
+![image](https://github.com/user-attachments/assets/aaf71115-6365-4936-925f-be6097a981e4)
+![image](https://github.com/user-attachments/assets/5940aeca-27c7-46ef-bd72-5a92b85602ed)
 
-- určit největšího společného dělitele a nejmenší společný násobek přirozených čísel
+## 2 Algebraicke vyrazy
 
-## Celá čísla
+### 2.1 Algebraicke vyrazy
 
-- provádět aritmetické operace s celými čísly
 
-- užít pojem opačné číslo
 
-## Racionální čísla
+### 2.2 Mnohocleny
 
-- pracovat s různými tvary zápisu racionálního čísla a jejich převody
+#### Vzorce
 
-- užít dekadický zápis čísla
+![image](https://github.com/user-attachments/assets/152664c7-fcfa-44cf-baf9-5db10753165b)
 
-- provádět operace se zlomky
+#### Priklady
 
-- provádět operace s desetinnými čísly včetně zaokrouhlování, určit řád čísla
+![image](https://github.com/user-attachments/assets/955a07a2-7d2c-4ec1-9527-1e8d2a2f13da)
+![image](https://github.com/user-attachments/assets/9c43ed24-d09a-4c12-b4c9-d5f457c4d094)
 
-- řešit úlohy na procenta a zlomky, užívat trojčlenku a poměr
+### 2.3 Lomene vyrazy
 
-- znázornit racionální číslo na číselné ose, porovnávat racionální čísla
+![image](https://github.com/user-attachments/assets/e82cd50c-4c0e-4b06-b2b0-5f87f8123ad7)
+![image](https://github.com/user-attachments/assets/fd149d3f-4e1f-4193-89e3-3355b909b83d)
+![image](https://github.com/user-attachments/assets/b200c865-eb73-4c7e-90f0-0e91724605c6)
+![image](https://github.com/user-attachments/assets/41767fd7-92c8-4487-9193-2f508a481d86)
 
-- užívat jednotky a jejich převody
+### 2.4 Mocniny a odmocniny
 
-## Reálná čísla
-
-- zařadit číslo do příslušného číselného oboru
-
-- provádět aritmetické operace v číselných oborech, porovnávat reálná čísla
-
-- užít pojmy opačné číslo a převrácené číslo
-
-- znázornit reálné číslo nebo jeho aproximaci na číselné ose
-
-- určit absolutní hodnotu reálného čísla a chápat její geometrický význam
-
-- provádět operace s mocninami s celočíselným a racionálním exponentem a odmocninami
-
-- řešit praktické úlohy s mocninami s přirozeným exponentem a odmocninami
-
-## Číselné množiny
-
-- užívat označení číselných oborů
-
-- zapisovat a znázorňovat číselné množiny a intervaly, určovat jejich průnik a sjednocení
-
-# Algebraické výrazy
-
-## Algebraický výraz
-
-- určit hodnotu výrazu
-
-- určit nulový bod výrazu
-
-- určit definiční obor výrazu
-
-- sestavit výraz, interpretovat výraz
-
-- modelovat reálné situace užitím výrazů
-
-## Mnohočleny
-
-- užít pojmy člen, koeficient, stupeň mnohočlenu
-
-- provádět operace s mnohočleny, provádět umocnění dvojčlenu pomocí vzorců
-
-- rozložit mnohočlen na součin vytýkáním a užitím vzorců
-
-## Lomené výrazy
-
-- provádět operace s lomenými výrazy
-
-- určit definiční obor lomeného výrazu
-
-## Výrazy s mocninami a odmocninami
-
-- provádět operace s výrazy obsahujícími mocniny a odmocniny
-
-- určit definiční obor výrazu s mocninami a odmocninami
+![image](https://github.com/user-attachments/assets/bc9892b3-fae1-43c8-ba92-e63428484255)
+![image](https://github.com/user-attachments/assets/2537b77a-5577-45c3-a1a6-bcbeeed374a6)
