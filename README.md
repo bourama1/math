@@ -38,5 +38,11 @@
 
 ### 2.4 Mocniny a odmocniny
 
+#### Vzorce
+
+![image](https://github.com/user-attachments/assets/5f0d0a4c-5f08-4384-ad2a-b5047c74ed5b)
+
+#### Priklady
+
 ![image](https://github.com/user-attachments/assets/bc9892b3-fae1-43c8-ba92-e63428484255)
 ![image](https://github.com/user-attachments/assets/2537b77a-5577-45c3-a1a6-bcbeeed374a6)
