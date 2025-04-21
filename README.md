@@ -16,8 +16,6 @@
 
 ### 2.1 Algebraicke vyrazy
 
-
-
 ### 2.2 Mnohocleny
 
 #### Vzorce
@@ -46,3 +44,11 @@
 
 ![image](https://github.com/user-attachments/assets/bc9892b3-fae1-43c8-ba92-e63428484255)
 ![image](https://github.com/user-attachments/assets/2537b77a-5577-45c3-a1a6-bcbeeed374a6)
+
+### Priklady z didaktaku
+![image](https://github.com/user-attachments/assets/318e719f-77d3-40d4-b427-0dd9fb642b4d)
+![image](https://github.com/user-attachments/assets/fcfeae74-f12b-4022-9d82-580fcdf88263)
+![image](https://github.com/user-attachments/assets/daa3e991-dd95-45a8-a71f-68b92803abb5)
+![image](https://github.com/user-attachments/assets/33365d12-1b3e-4c55-b64c-b11b8423928c)
+![image](https://github.com/user-attachments/assets/bf933041-e50e-407f-8797-ec9f68bf99e8)
+![image](https://github.com/user-attachments/assets/6ef5d298-b0a9-46b6-a1d8-6c7c14a86b76)
