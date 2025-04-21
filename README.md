@@ -13,6 +13,11 @@
 ![image](https://github.com/user-attachments/assets/bd2e4b23-8f0f-4326-9333-0305efcd536e)
 ![image](https://github.com/user-attachments/assets/5940aeca-27c7-46ef-bd72-5a92b85602ed)
 
+### Priklady z didaktaku
+
+![image](https://github.com/user-attachments/assets/c5540544-a2eb-462f-be6c-74e33a7fc16e)
+![image](https://github.com/user-attachments/assets/6c3fb02f-d112-4748-bb06-07093fec37a1)
+
 ## 2 Algebraicke vyrazy
 
 ### 2.1 Algebraicke vyrazy
@@ -67,3 +72,8 @@
 ![image](https://github.com/user-attachments/assets/4b2aaef4-f0d0-43f8-bc4e-82e05c47cdd3)
 ![image](https://github.com/user-attachments/assets/36c9de76-c484-4ca8-ad03-21f38b016b9a)
 ![image](https://github.com/user-attachments/assets/ac136e8b-d865-4721-a0bf-9f716e4759ba)
+![image](https://github.com/user-attachments/assets/da166a2f-b687-4ad0-9e2f-f06e976e3d68)
+![image](https://github.com/user-attachments/assets/23ff2932-2de6-48c6-87e6-19bc794d4cf8)
+![image](https://github.com/user-attachments/assets/0e8473fe-f72b-4980-aed9-639687668ab5)
+![image](https://github.com/user-attachments/assets/e8358775-e7eb-44a9-9d99-9d78789a099e)
+![image](https://github.com/user-attachments/assets/d4e37a94-01cc-4845-bfd5-a8986df028c6)
