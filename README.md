@@ -135,4 +135,6 @@ provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) stran
 
 = rovnice, kterou lze ekvivalentními úpravami převést na tvar a*x^2 + b*x + c = 0 ; a ≠ 0
 
+![img25](https://github.com/user-attachments/assets/57de2d1d-495f-4488-80ec-cf26a8da714f)
+
 ### 3.5 Linearni nerovnice s jednou neznamou a soustavy
