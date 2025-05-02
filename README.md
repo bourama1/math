@@ -77,3 +77,27 @@
 ![image](https://github.com/user-attachments/assets/0e8473fe-f72b-4980-aed9-639687668ab5)
 ![image](https://github.com/user-attachments/assets/e8358775-e7eb-44a9-9d99-9d78789a099e)
 ![image](https://github.com/user-attachments/assets/d4e37a94-01cc-4845-bfd5-a8986df028c6)
+
+## 3 Rovnice a nerovnice
+
+### 3.1 Algebraicke rovnice a nerovnice
+
+![image](https://github.com/user-attachments/assets/97c294e5-b74a-437a-b077-a1f79da25095)
+
+**Koren:**
+hodnoty nezname x, po jejichz dosazeni do rovnice obdrzime rovnost (= reseni rovnice)
+
+**Obor reseni:**
+mnozina ve ktere ma nezname x lezet, napr. hledame reseni rovnicev mnozine Z => resenim musi byt cele cislo
+
+**Definicni obor:**
+Množina, ve které jsou definovány hodnoty všech výrazů, které se v dané rovnici vyskytují. Znaci se Df. Viz 2 Algebraicke vyrazy
+
+**Ekvivalentní úpravy:**
+- přičtení nebo odečtení stejného výrazu k oběma stranám rovnice
+- vynásobení nebo dělení obou stran stejným nenulovým výrazem
+
+**Zkouška:**
+provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) strany původní rovnice. Je-li L = P, dosazované číslo je kořenem; je-li L ≠ P, dosazované číslo kořenem není.
+
+### 3.2 Linearni rovnice a jejich soustavy
