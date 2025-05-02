@@ -87,6 +87,9 @@
 **Koren:**
 hodnoty nezname x, po jejichz dosazeni do rovnice obdrzime rovnost (= reseni rovnice)
 
+**Mnozina vsech reseni:**
+mnozina vsech korenu rovnice
+
 **Obor reseni:**
 mnozina ve ktere ma nezname x lezet, napr. hledame reseni rovnicev mnozine Z => resenim musi byt cele cislo
 
@@ -94,6 +97,7 @@ mnozina ve ktere ma nezname x lezet, napr. hledame reseni rovnicev mnozine Z => 
 Množina, ve které jsou definovány hodnoty všech výrazů, které se v dané rovnici vyskytují. Znaci se Df. Viz 2 Algebraicke vyrazy
 
 **Ekvivalentní úpravy:**
+
 - přičtení nebo odečtení stejného výrazu k oběma stranám rovnice
 - vynásobení nebo dělení obou stran stejným nenulovým výrazem
 
