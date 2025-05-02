@@ -106,9 +106,10 @@ provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) stran
 
 ### 3.2 Linearni rovnice a jejich soustavy
 
-https://www.nabifli.cz/kurzy/matematika-ss/rovnice-nerovnice/linearni-rovnice
+<https://www.nabifli.cz/kurzy/matematika-ss/rovnice-nerovnice/linearni-rovnice>
 
 = rovnice, kterou lze ekvivalentními úpravami převést na tvar a*x + b = 0
+
 - reseni = prevod x na jednu stranu a konstant (cisel) na druhou
 - vyjadreni nezname ze vzorce = reseni, ale ostatni nezname krom te co chceme vyjadrit take prevedeme na druhou stranu
 - **soucinovy tvar**
@@ -120,4 +121,18 @@ https://www.nabifli.cz/kurzy/matematika-ss/rovnice-nerovnice/linearni-rovnice
 - **soustavy rovnic**
   - substituce = z jedne z rovnic si vyjadrim jednu z neznamych a za tu pak dosadim vyjadreny vyraz do druhe rovnice
   - scitaci metoda = sectenim obou rovnic se zbavim jedne z neznamych (treba predtim vhodne pronasobit)
-  - graficky =
+  - graficky = vypoctu alespon 2 body pro obe rovnice -> nacrtnu primky pres ne -> hledam prusecik
+
+### 3.3 Rovnice s neznamou ve jmenovateli
+
+- viz podilovy tvar 3.2
+- definicni obor -> spodky vsech zlomku (nesmi byt 0) + kdyby byla odmocnina (musi byt alespon 0)
+- prevest do podiloveho tvaru -> vse na jednu stranu = 0 -> pote na spolecneho jmenovatele
+- kdyz ma vse spolecneho jmenovatele, tak prevest na citatel = 0 za podminek na definicni obor z jmenovatele
+- na konec overit podminky na definicni obor
+
+### 3.4 Kvadratické rovnice
+
+= rovnice, kterou lze ekvivalentními úpravami převést na tvar a*x^2 + b*x + c = 0 ; a ≠ 0
+
+### 3.5 Linearni nerovnice s jednou neznamou a soustavy
