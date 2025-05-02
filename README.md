@@ -105,3 +105,19 @@ Množina, ve které jsou definovány hodnoty všech výrazů, které se v dané 
 provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) strany původní rovnice. Je-li L = P, dosazované číslo je kořenem; je-li L ≠ P, dosazované číslo kořenem není.
 
 ### 3.2 Linearni rovnice a jejich soustavy
+
+https://www.nabifli.cz/kurzy/matematika-ss/rovnice-nerovnice/linearni-rovnice
+
+= rovnice, kterou lze ekvivalentními úpravami převést na tvar a*x + b = 0
+- reseni = prevod x na jednu stranu a konstant (cisel) na druhou
+- vyjadreni nezname ze vzorce = reseni, ale ostatni nezname krom te co chceme vyjadrit take prevedeme na druhou stranu
+- **soucinovy tvar**
+  - tvar L(x) 0 = , kde levá strana je součinem několika činitelů
+  - tento součin je roven nule právě tehdy, když alespoň jeden z činitelů je roven nule.
+- **podilovy tvar**
+  - tvar M(x)/N(x) = 0
+  - Lomený výraz je pak roven nule právě tehdy, je-li roven nule jeho čitatel
+- **soustavy rovnic**
+  - substituce = z jedne z rovnic si vyjadrim jednu z neznamych a za tu pak dosadim vyjadreny vyraz do druhe rovnice
+  - scitaci metoda = sectenim obou rovnic se zbavim jedne z neznamych (treba predtim vhodne pronasobit)
+  - graficky =
