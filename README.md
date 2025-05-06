@@ -138,3 +138,14 @@ provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) stran
 ![img25](https://github.com/user-attachments/assets/57de2d1d-495f-4488-80ec-cf26a8da714f)
 
 ### 3.5 Linearni nerovnice s jednou neznamou a soustavy
+
+- reseni ekvivalentnimi upravami, ktere jsou podobne jako u rovnic, **! vyjimky: !**
+  - Při násobení, resp. dělení nerovnice záporným číslem otáčíme znaménko nerovnosti.
+  - Umocňovat nerovnici lze pouze tehdy, mají-li obě její strany stejná znaménka: Jsou-li obě strany kladné, násobíme kladným číslem, znaménko nerovnosti neměníme. Jsou-li obě strany záporné, násobíme záporným číslem a znaménko nerovnosti je třeba otočit.
+- resenim jsou intervaly, viz 1.5
+- **soucinovy tvar**
+  - tvar kde levá strana je součinem několika činitelů a vpravo je 0
+  - reseni pomoci nulovych bodu
+- **podilovy tvar**
+  - tvar kde na levé straně je racionální lomený výraz a vpravo je 0
+  - reseni pomoci nulovych bodu, ale je potreba davat pozor na definicni obor
