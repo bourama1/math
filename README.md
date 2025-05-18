@@ -149,3 +149,13 @@ provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) stran
 - **podilovy tvar**
   - tvar kde na levé straně je racionální lomený výraz a vpravo je 0
   - reseni pomoci nulovych bodu, ale je potreba davat pozor na definicni obor
+
+### Priklady z didaktaku
+
+![image](https://github.com/user-attachments/assets/eed10a0b-35cd-43b0-8c8b-aa85b05dfd1e)
+![image](https://github.com/user-attachments/assets/92567cab-bf0f-4243-8dc9-d61af5050158)
+![image](https://github.com/user-attachments/assets/b99c61d6-d0ce-410b-ab27-16b80c75a5dc)
+![image](https://github.com/user-attachments/assets/84b1d983-15e8-4f42-a374-4246347c48c4)
+![image](https://github.com/user-attachments/assets/dbcb4725-2138-456d-bebc-fb13511f75af)
+![image](https://github.com/user-attachments/assets/4345305e-6308-4651-9ab7-58a78e455904)
+![image](https://github.com/user-attachments/assets/7f703864-d646-470f-bd50-aa1b58f58b77)
