@@ -159,3 +159,7 @@ provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) stran
 ![image](https://github.com/user-attachments/assets/dbcb4725-2138-456d-bebc-fb13511f75af)
 ![image](https://github.com/user-attachments/assets/4345305e-6308-4651-9ab7-58a78e455904)
 ![image](https://github.com/user-attachments/assets/7f703864-d646-470f-bd50-aa1b58f58b77)
+![image](https://github.com/user-attachments/assets/fc4317e5-bc82-46f6-94e1-ae6456c6cf30)
+![image](https://github.com/user-attachments/assets/d553860e-2733-4d3c-91cd-1f2256a4361e)
+![image](https://github.com/user-attachments/assets/c1b1cc6d-0957-4985-b111-bc43f70f2ab8)
+![image](https://github.com/user-attachments/assets/8e03b03f-41a4-40aa-aae5-73bf44ac7bbc)
