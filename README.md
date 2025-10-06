@@ -35,6 +35,7 @@
 
 ![image](https://github.com/user-attachments/assets/955a07a2-7d2c-4ec1-9527-1e8d2a2f13da)
 ![image](https://github.com/user-attachments/assets/9c43ed24-d09a-4c12-b4c9-d5f457c4d094)
+![image](https://github.com/user-attachments/assets/3129d87c-3d4e-4fd4-8ac6-6f64a354a8b3)
 
 ### 2.3 Lomene vyrazy
 
