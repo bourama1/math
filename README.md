@@ -164,3 +164,112 @@ provádí se dosazením nalezených kořenů do levé ( L ) a pravé ( P ) stran
 ![image](https://github.com/user-attachments/assets/d553860e-2733-4d3c-91cd-1f2256a4361e)
 ![image](https://github.com/user-attachments/assets/c1b1cc6d-0957-4985-b111-bc43f70f2ab8)
 ![image](https://github.com/user-attachments/assets/8e03b03f-41a4-40aa-aae5-73bf44ac7bbc)
+
+## 4 Funkce – Studijní materiály
+
+### 4.1 Základní poznatky o funkcích
+
+- **Definice funkce:**
+Funkce je předpis, který každému prvku z definičního oboru přiřazuje právě jeden prvek z oboru hodnot.
+- **Definiční obor (D):** Množina všech hodnot, pro které je funkce definována (tzv. argumenty funkce).
+- **Obor hodnot (H):** Množina všech možných hodnot, které může funkce nabýt.
+- **Argument funkce:** Prvek z definičního oboru, vstup funkce.
+- **Hodnota funkce:** Výstup odpovídající danému argumentu.
+- **Graf funkce:** Množina všech uspořádaných dvojic $(x, f(x))$, kde $x \in D$.
+- **Intervaly monotónie:** Intervaly, na kterých je funkce rostoucí nebo klesající.
+- **Extrémy funkce:** Body, kde funkce nabývá lokálního maxima nebo minima.
+- **Funkce může být zadána různými způsoby:**
+    - Předpisem (např. $f(x) = x^2 + 2$)
+    - Tabulkou hodnot
+    - Grafem
+    - Slovním popisem
+- **Úkoly s funkcemi zahrnují:**
+    - Určení hodnot funkce pro dané argumenty
+    - Určení definičního oboru a oboru hodnot
+    - Určení průsečíků grafu s osami souřadnic
+    - Určení intervalů monotónie
+    - Identifikaci extrémů z grafu či předpisu
+    - Přiřazení předpisu ke grafu a naopak
+
+
+### 4.2 Lineární funkce a lineární lomené funkce
+
+- **Lineární funkce:**
+    - Předpis: $f(x) = ax + b$, kde $a, b \in \mathbb{R}$
+    - Definiční obor: $D = \mathbb{R}$
+    - Obor hodnot: $H = \mathbb{R}$
+    - Graf je přímka se směrnicí $a$
+    - Parametr $a$ určuje směrnici (sklon), $b$ je průsečík s osou $y$
+    - Funkce je rostoucí, pokud $a > 0$, klesající pokud $a < 0$, konstantní pokud $a=0$
+- **Přímá úměrnost:**
+    - Speciální případ lineární funkce $f(x) = ax$ (bez \emph{b})
+    - Grafem je přímka procházející počátkem
+    - Vlastnost: $f(x_1) / f(x_2) = x_1 / x_2$
+- **Nepřímá úměrnost:**
+    - Předpis: $f(x) = \frac{k}{x}$, kde $k \neq 0$
+    - Definiční obor: $D = \mathbb{R} \setminus \{0\}$
+    - Graf je hyperbola se dvěma větvemi
+    - Funkce je klesající na intervalu \$ (0, +\infty) \$ a rostoucí na $(-\infty, 0)$
+- **Lineární lomená funkce:**
+    - Předpis: $f(x) = \frac{ax + b}{cx + d}$, kde $ad - bc \neq 0$
+    - Definiční obor: $D = \mathbb{R} \setminus \{-\frac{d}{c}\}$ (kde jmenovatel je nulový)
+    - Graf: křivka s asymptotami
+    - Funkce modeluje mnoho reálných závislostí s nespojitostmi
+
+
+### 4.3 Kvadratické funkce
+
+- **Předpis:** $f(x) = ax^2 + bx + c$, kde $a \neq 0$
+- **Definiční obor:** $D = \mathbb{R}$
+- **Obor hodnot:**
+    - Pokud $a > 0$, pak $H = \left[\min, +\infty \right)$
+    - Pokud $a < 0$, pak $H = \left(-\infty, \max \right]$
+    - $\min$ nebo $\max$ je hodnota v vrcholu paraboly
+- **Graf:** parabola otevírající se nahoru (pro $a>0$) nebo dolů (pro $a<0$)
+- **Vrchol:** bod $\left(-\frac{b}{2a}, f\left(-\frac{b}{2a}\right)\right)$ – zde nabývá funkce extrému.
+- **Monotonie:**
+    - Funkce je klesající vlevo od vrcholu a rostoucí vpravo, nebo naopak podle znaménka $a$.
+
+
+### 4.4 Exponenciální a logaritmické funkce
+
+- **Exponenciální funkce:**
+    - Předpis: $f(x) = a^x$, kde $a > 0$, $a \neq 1$
+    - Definiční obor: $D = \mathbb{R}$
+    - Obor hodnot: $H = (0, +\infty)$
+    - Graf roste, pokud $a > 1$, klesá, pokud $0 < a < 1$
+    - Průsečík s osou $y$ v bodě $(0, 1)$
+- **Logaritmická funkce:**
+    - Předpis: $f(x) = \log_a x$, kde $a > 0$, $a \neq 1$
+    - Definiční obor: $D = (0, +\infty)$
+    - Obor hodnot: $H = \mathbb{R}$
+    - Graf roste, pokud $a > 1$, klesá, pokud $0 < a < 1$
+    - Průsečík s osou $x$ v bodě $(1, 0)$
+- **Vztahy:**
+    - $a^{\log_a x} = x$
+    - $\log_a (xy) = \log_a x + \log_a y$
+    - $\log_a \frac{x}{y} = \log_a x - \log_a y$
+    - $\log_a x^k = k \log_a x$
+- **Řešení jednoduchých exponenciálních a logaritmických rovnic zahrnuje použití těchto vlastností.**
+
+
+### 4.5 Goniometrické funkce
+
+- **Orientovaný úhel:** směr a velikost úhlu s určeným počátkem a koncem, měřený ve stupních nebo v radiánech.
+- **Převod jednotek:** 360° = $2\pi$ rad, $1^\circ = \frac{\pi}{180}$ rad.
+- **Definice goniometrických funkcí v pravoúhlém trojúhelníku:**
+    - $\sin \alpha = \frac{\text{protilehlá}}{\text{přepona}}$
+    - $\cos \alpha = \frac{\text{přilehlá}}{\text{přepona}}$
+    - $\tg \alpha = \frac{\sin \alpha}{\cos \alpha} = \frac{\text{protilehlá}}{\text{přilehlá}}$
+- **Definiční obor a obor hodnot:**
+    - $\sin x, \cos x$ jsou definovány na $\mathbb{R}$, hodnoty v $[-1, 1]$
+    - $\tg x$ definována na $\mathbb{R} \setminus \{ \frac{\pi}{2} + k\pi \}$, hodnoty v $\mathbb{R}$
+- **Grafy:**
+    - Sinus a kosinus jsou periodické s periodou $2\pi$.
+    - Tangens je periodický s periodou $\pi$, má nespojitosti v bodech, kde $\cos x = 0$.
+- **Vlastnosti:**
+    - Určení intervalů monotónie a extrémů z grafu.
+    - Vztahy mezi funkcemi, např. $\sin^2 x + \cos^2 x = 1$.
+- **Použití:**
+    - Úpravy výrazů obsahujících goniometrické funkce.
+    - Řešení jednoduchých goniometrických rovnic.
