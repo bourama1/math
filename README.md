@@ -194,6 +194,9 @@ Funkce je předpis, který každému prvku z definičního oboru přiřazuje pr�
 
 ### 4.2 Lineární funkce a lineární lomené funkce
 
+<img width="500" height="390" alt="image" src="https://github.com/user-attachments/assets/ca532ab5-1914-468c-b392-3f5bcdf4a693" />
+<img width="500" height="385" alt="image" src="https://github.com/user-attachments/assets/18d68d3e-a188-46e2-9945-360310b7416b" />
+
 - **Lineární funkce:**
     - Předpis: $f(x) = ax + b$, kde $a, b \in \mathbb{R}$
     - Definiční obor: $D = \mathbb{R}$
@@ -218,6 +221,8 @@ Funkce je předpis, který každému prvku z definičního oboru přiřazuje pr�
 
 
 ### 4.3 Kvadratické funkce
+
+<img width="500" height="402" alt="image" src="https://github.com/user-attachments/assets/a479c6ae-5930-4247-9b7e-f4611f22bc75" />
 
 - **Předpis:** $f(x) = ax^2 + bx + c$, kde $a \neq 0$
 - **Definiční obor:** $D = \mathbb{R}$
